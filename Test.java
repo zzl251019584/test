@@ -5,7 +5,15 @@ public class Test {
     private String name;
     private String path;
     private String hellozl;
+    private String hello;
 
+    public String getHello() {
+        return hello;
+    }
+
+    public void setHello(String hello) {
+        this.hello = hello;
+    }
 
     public String getName() {
         return name;
