@@ -17,7 +17,7 @@ public class Test {
     sssss
 
     master
-                    asdasddsds
+                    asdasddsdsklklkl
 
     public String getHello() {
         return hello;
