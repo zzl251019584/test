@@ -12,6 +12,8 @@ public class Test {
     master再来
             asasasa
 
+    master
+
     public String getHello() {
         return hello;
     }
