@@ -9,6 +9,7 @@ public class Test {
 	ppp
 	kkk
 	llll
+    测试合并分支
 
     public String getHello() {
         return hello;
