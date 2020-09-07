@@ -13,6 +13,7 @@ public class Test {
             asasasa
 
     master
+                    asdasd
 
     public String getHello() {
         return hello;
