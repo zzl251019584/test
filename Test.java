@@ -12,6 +12,8 @@ public class Test {
     测试合并分支
     master再来
 
+    sssss
+
     public String getHello() {
         return hello;
     }
