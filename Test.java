@@ -10,6 +10,7 @@ public class Test {
 	kkk
 	llll
     测试合并分支
+    master再来
 
     public String getHello() {
         return hello;
