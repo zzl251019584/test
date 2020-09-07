@@ -16,6 +16,8 @@ public class Test {
 
     sssss
 
+    master
+
     public String getHello() {
         return hello;
     }
