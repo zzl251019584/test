@@ -9,6 +9,7 @@ public class Test {
 	ppp
 	kkk
 	llll
+    master
 
     public String getHello() {
         return hello;
